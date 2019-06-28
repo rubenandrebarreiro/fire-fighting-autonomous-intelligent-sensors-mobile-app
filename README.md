@@ -2,6 +2,48 @@
 
 ###  (Mobile App for Android)
 
+## Current Status
+
+[![contributor for this repository](https://img.shields.io/badge/contributor-bernardo&nbsp;palma&nbsp;albergaria-blue.svg)](https://github.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app)
+[![contributor for this repository](https://img.shields.io/badge/contributor-timeforagame-blue.svg)](https://github.com/timeforagame/)
+[![contributor for this repository](https://img.shields.io/badge/contributor-rubenandrebarreiro-blue.svg)](https://github.com/rubenandrebarreiro/) [![developed in](https://img.shields.io/badge/developed&nbsp;in-fct&nbsp;nova-blue.svg)](https://www.fct.unl.pt/)
+[![current version](https://img.shields.io/badge/version-1.0-magenta.svg)](https://github.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/)
+
+[![status of this version no. 1](https://img.shields.io/badge/status-completed-orange.svg)](https://github.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/)
+[![status of this version no. 2](https://img.shields.io/badge/status-final-orange.svg)](https://github.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/)
+[![status of this version no. 3](https://img.shields.io/badge/status-stable-orange.svg)](https://github.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/)
+[![status of this version no. 4](https://img.shields.io/badge/status-documented-orange.svg)](https://github.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/)
+
+
+[![keyword of this version no. 1](https://img.shields.io/badge/keyword-sensors&nbsp;computing-brown.svg)](https://github.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/)
+[![keyword of this version no. 2](https://img.shields.io/badge/keyword-web&nbsp;mobile-app-brown.svg)](https://github.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/)
+[![keyword of this version no. 3](https://img.shields.io/badge/keyword-mobile&nbsp;app-brown.svg)](https://github.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/)
+[![keyword of this version no. 4](https://img.shields.io/badge/keyword-ubiquituous&nbsp;computing-brown.svg)](https://github.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/)
+
+[![technology used no. 1](https://img.shields.io/badge/built&nbsp;with-arduino-red.svg)](https://www.arduino.cc/) 
+[![technology used no. 2](https://img.shields.io/badge/built&nbsp;with-c++-red.svg)](http://www.cplusplus.com/) 
+[![technology used no. 3](https://img.shields.io/badge/built&nbsp;with-java-red.svg)](https://www.java.com/)
+[![technology used no. 4](https://img.shields.io/badge/built&nbsp;with-google&nbsp;app&nbsp;engine-red.svg)](https://www.android.com/)
+
+[![software used no. 1](https://img.shields.io/badge/software-arduino&nbsp;ide-gold.svg)](https://www.arduino.cc/en/Main/Software)
+[![software used no. 2](https://img.shields.io/badge/software-google&nbsp;app&nbsp;engine-gold.svg)](https://cloud.google.com/appengine/)
+[![software used no. 3](https://img.shields.io/badge/software-eclipse&nbsp;ide-gold.svg)](https://www.eclipse.org/)
+[![software used no. 4](https://img.shields.io/badge/software-jetbrains&nbsp;intellij&nbsp;idea-gold.svg)](https://www.jetbrains.com/idea/)
+[![software used no. 5](https://img.shields.io/badge/software-android&nbsp;studio-gold.svg)](https://developer.android.com/studio)
+
+[![star this repository](http://githubbadges.com/star.svg?user=rubenandrebarreiro&repo=fire-fighting-autonomous-intelligent-sensors-mobile-app&style=flat)](https://github.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/stargazers)
+[![fork this repository](http://githubbadges.com/fork.svg?user=rubenandrebarreiro&repo=fire-fighting-autonomous-intelligent-sensors-mobile-app&style=flat)](https://github.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/fork)
+[![downloads of this repository](https://img.shields.io/github/downloads/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/total.svg)](https://github.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/archive/master.zip)
+[![price of this project](https://img.shields.io/badge/price-free-success.svg)](https://github.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/archive/master.zip)
+
+##### Current Progress of the Project
+
+[![current progress of this project](http://progressed.io/bar/80?title=&nbsp;completed&nbsp;)](https://github.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/) 
+
+##### Final Approval Grade of the Project
+
+[![grade of this project](http://progressed.io/bar/16?scale=20&title=&nbsp;grade&nbsp;&suffix=&nbsp;)](https://github.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/)
+
 ### Prerequisites
 To install and run this application, you will need:
 > The [**_Git_**](https://git-scm.com/) feature and/or a [**_third-party Git Client based GUI_**](https://git-scm.com/downloads/guis/), like:
@@ -38,7 +80,7 @@ git clone git@github.com:rubenandrebarreiro/fire-fighting-autonomous-intelligent
 
 ## Contributors
 
-> [Bernardo Palma Albergaria]()
+> Bernardo Palma Albergaria
 
 > [Eduardo Brás Silva](https://github.com/timeforagame/)
 
