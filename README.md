@@ -2,6 +2,11 @@
 
 ###  (Mobile App for Android)
 
+![https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/master/imgs/JPGs/banner-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/master/imgs/JPGs/banner-1.jpg)
+###### Fire Fighting - Autonomous and Intelligent Sensors in the Fight against Forest Fires (Mobile App for Android) - Banner #1
+
+***
+
 ## Current Status
 
 [![contributor for this repository](https://img.shields.io/badge/contributor-bernardo&nbsp;palma&nbsp;albergaria-blue.svg)](https://github.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app)
@@ -82,7 +87,7 @@ git clone git@github.com:rubenandrebarreiro/fire-fighting-autonomous-intelligent
 
 > Bernardo Palma Albergaria
 
-> [Eduardo Brás Silva](https://github.com/timeforagame/)
+> [Eduardo Manuel Silva](https://github.com/timeforagame/)
 
 > [Rúben André Barreiro](https://github.com/rubenandrebarreiro/)
 
