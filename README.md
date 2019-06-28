@@ -16,7 +16,7 @@
 
 
 [![keyword of this version no. 1](https://img.shields.io/badge/keyword-sensors&nbsp;computing-brown.svg)](https://github.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/)
-[![keyword of this version no. 2](https://img.shields.io/badge/keyword-web&nbsp;mobile-app-brown.svg)](https://github.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/)
+[![keyword of this version no. 2](https://img.shields.io/badge/keyword-web&nbsp;server-brown.svg)](https://github.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/)
 [![keyword of this version no. 3](https://img.shields.io/badge/keyword-mobile&nbsp;app-brown.svg)](https://github.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/)
 [![keyword of this version no. 4](https://img.shields.io/badge/keyword-ubiquituous&nbsp;computing-brown.svg)](https://github.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/)
 
