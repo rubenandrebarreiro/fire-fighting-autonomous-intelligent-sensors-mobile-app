@@ -33,9 +33,8 @@ git clone git@github.com:rubenandrebarreiro/fire-fighting-autonomous-intelligent
 ```
 
 ## Built with
+* [**_Android_**](https://www.android.com/)
 * [**_Java_**](https://www.java.com/)
-* [**_HTML_**](https://www.w3schools.com/html/)
-* [**_Google App Engine_**](https://cloud.google.com/appengine/)
 
 ## Contributors
 
