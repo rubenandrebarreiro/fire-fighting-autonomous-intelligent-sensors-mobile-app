@@ -49,6 +49,17 @@
 
 [![grade of this project](http://progressed.io/bar/16?scale=20&title=&nbsp;grade&nbsp;&suffix=&nbsp;)](https://github.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/)
 
+## Description
+
+> A [**_1st year's lab work (project)_**](http://www.unl.pt/guia/2018/fct/UNLGI_getCurso?curso=935) of the [**_MSc. degree of Computer Science and Engineering_**](https://www.fct.unl.pt/en/education/course/integrated-master-computer-science/) made in [**_FCT NOVA (Faculty of Sciences and Technology of New University of Lisbon)_**](https://www.fct.unl.pt/), in the subject of [**_Mobile and Pervasive Computing_**](http://www.unl.pt/guia/2018/fct/UNLGI_getUC?uc=8299). This project was built using [**_Arduino_**](https://www.arduino.cc/), [**_C++ (C Plus Plus)_**](http://www.cplusplus.com/), [**_Java_**](https://www.java.com/), [**_Android_**](https://www.android.com/) and [**_Google App Engine_**](https://cloud.google.com/appengine/). The scenario chosen for this project was to _combat forest fires with the use of sensors and actuators_, to _detect_ and _prevent_ _fire occurrences in forests_, as also, _collect_ and _analyse data_ from them, and kept in a _Web Server_. A Mobile App was also built to support some functions and interactions with the system, globally.
+
+[Click here to see the Project's Description!](https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/master/project-description/PDFs/project-description-1.pdf)
+######  Fire Fighting - Autonomous and Intelligent Sensors in the Fight against Forest Fires (Mobile App for Android) - Project's Description #1
+
+***
+
+## Getting Started
+
 ### Prerequisites
 To install and run this application, you will need:
 > The [**_Git_**](https://git-scm.com/) feature and/or a [**_third-party Git Client based GUI_**](https://git-scm.com/downloads/guis/), like:
