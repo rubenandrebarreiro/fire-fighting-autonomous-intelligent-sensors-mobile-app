@@ -28,7 +28,7 @@
 [![technology used no. 1](https://img.shields.io/badge/built&nbsp;with-arduino-red.svg)](https://www.arduino.cc/) 
 [![technology used no. 2](https://img.shields.io/badge/built&nbsp;with-c++-red.svg)](http://www.cplusplus.com/) 
 [![technology used no. 3](https://img.shields.io/badge/built&nbsp;with-java-red.svg)](https://www.java.com/)
-[![technology used no. 4](https://img.shields.io/badge/built&nbsp;with-google&nbsp;app&nbsp;engine-red.svg)](https://www.android.com/)
+[![technology used no. 4](https://img.shields.io/badge/built&nbsp;with-android-red.svg)](https://www.android.com/)
 
 [![software used no. 1](https://img.shields.io/badge/software-arduino&nbsp;ide-gold.svg)](https://www.arduino.cc/en/Main/Software)
 [![software used no. 2](https://img.shields.io/badge/software-google&nbsp;app&nbsp;engine-gold.svg)](https://cloud.google.com/appengine/)
