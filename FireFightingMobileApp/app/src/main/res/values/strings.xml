@@ -1,0 +1,178 @@
+<resources>
+    <string name="app_name">FIRE FIGHTING</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="login_description">AUTONOMOUS AND INTELLIGENT SENSORS</string>
+    <string name="login_username">Email</string>
+    <string name="login_password">Password</string>
+    <string name="login_register">Don\'t have an account? Register</string>
+    <string name="login_button">Login</string>
+    <string name="login_error">Error Logging in</string>
+    <string name="register_register">Register</string>
+    <string name="content_register_email">Email</string>
+    <string name="content_activity_password">Password</string>
+    <string name="content_activity_name">Name</string>
+    <string name="content_activity_user_type">User Type</string>
+
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_login"></string>
+    <string name="title_activity_main_screen">MainScreen</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_location_detail">LocationDetail</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+
+    <string name="nav_sensors">Sensors</string>
+    <string name="nav_map">Map</string>
+    <string name="nav_logout">Logout</string>
+
+    <string name="sensor_row_sensor_id">Sensor ID</string>
+    <string name="sensor_row_add_info">Set location</string>
+    <string name="sensor_row_more_details">More Details</string>
+    <string name="sensor_row_north_coordinates">North Coordinates</string>
+    <string name="sensor_row_west_coordinates">West Coordinates</string>
+    <string name="sensor_row_button_curr_location">Get current location</string>
+
+    <string name="user_row_user_name">User name</string>
+    <string name="user_row_remove">Remove user</string>
+    <string name="user_row_north_coordinates">North coordinates</string>
+    <string name="user_row_west_coordinates">West coordinates</string>
+    <string name="user_row_admin">Admin/User</string>
+    <string name="user_row_email">Email</string>
+
+    <string name="history_row_title">Alerts</string>
+
+    <string name="actor_list_activity_registered_title">Registered Sensors</string>
+    <string name="actor_list_activity_non_registered_title">Unregistered Sensors</string>
+    <string name="actor_list_activity_users_title">Users</string>
+    <string name="actor_list_activity_no_location">No location defined</string>
+
+    <string name="menu_maps_screen_zoom_all">Show all</string>
+    <string name="menu_maps_screen_zoom_sensors">Show all sensors</string>
+    <string name="menu_maps_screen_zoom_users">Show all users</string>
+
+    <string name="system_url">https://firefighting-240516.appspot.com</string>
+    <string name="system_url_login">/user/login</string>
+    <string name="system_url_getSensorsWithLocation">/user/getSensorLocs</string>
+    <string name="system_url_getSensorsWithoutLocation">/user/getSensorNoLoc</string>
+    <string name="system_url_registerUser">/register/user</string>
+    <string name="system_url_getSensorData">/user/getSensorAlerts</string>
+    <string name="system_url_setSensorLocation">/user/regSensorLoc</string>
+    <string name="system_url_getUsers">/user/getUserLocs</string>
+    <string name="system_url_deleteUser">/user/delete</string>
+    <string name="system_url_user_updateLoc">/user/updateLoc</string>
+    <string name="google_maps_key">AIzaSyAM_mA2Iosx5PkoAufz11wo4_HLfP8WqKc</string>
+
+    <string name="general_confirm">Confirm</string>
+    <string name="general_admin">Admin</string>
+    <string name="general_user">User</string>
+    <string name="gerenal_refresh">Refresh</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_set_sensor_location">SetSensorLocationActivity</string>
+    <string name="title_activity_actor">ActorActivity</string>
+
+</resources>
