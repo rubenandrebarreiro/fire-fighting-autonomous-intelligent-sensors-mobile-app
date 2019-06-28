@@ -58,6 +58,24 @@
 
 ***
 
+## Live Demos
+
+![https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/master/live-demos/GIFs/live-demo-1.gif](https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/master/live-demos/GIFs/live-demo-1.gif)
+![https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/master/live-demos/GIFs/live-demo-2.gif](https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/master/live-demos/GIFs/live-demo-2.gif)
+![https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/master/live-demos/GIFs/live-demo-3.gif](https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/master/live-demos/GIFs/live-demo-3.gif)
+######  Fire Fighting - Autonomous and Intelligent Sensors in the Fight against Forest Fires 
+######  (Arduino Sensor - Actuator with WiFi Component) - Live Demos (Part 1)
+
+***
+
+![https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/master/live-demos/GIFs/live-demo-4.gif](https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/master/live-demos/GIFs/live-demo-4.gif)
+![https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/master/live-demos/GIFs/live-demo-5.gif](https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/master/live-demos/GIFs/live-demo-5.gif)
+![https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/master/live-demos/GIFs/live-demo-6.gif](https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/master/live-demos/GIFs/live-demo-6.gif)
+######  Fire Fighting - Autonomous and Intelligent Sensors in the Fight against Forest Fires 
+######  (Arduino Sensor - Actuator with WiFi Component) - Live Demos (Part 2)
+
+***
+
 ## Getting Started
 
 ### Prerequisites
