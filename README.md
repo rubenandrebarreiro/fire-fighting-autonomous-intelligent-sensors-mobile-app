@@ -65,14 +65,14 @@
 ![https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-arduino/master/imgs/JPGs/screenshot-9.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-arduino/master/imgs/JPGs/screenshot-9.jpg)
 
 ######  Fire Fighting - Autonomous and Intelligent Sensors in the Fight against Forest Fires 
-######  (Arduino Sensor - Actuator with WiFi Component) - Screenshots (Part 1)
+######  (Mobile App for Android) - Screenshots (Part 1)
 
 ***
 
 ![https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-arduino/master/imgs/JPGs/screenshot-11.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-arduino/master/imgs/JPGs/screenshot-11.jpg)
 ![https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-arduino/master/imgs/JPGs/screenshot-11.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-arduino/master/imgs/JPGs/screenshot-12.jpg)
 ######  Fire Fighting - Autonomous and Intelligent Sensors in the Fight against Forest Fires 
-######  (Arduino Sensor - Actuator with WiFi Component) - Screenshots (Part 2)
+######  (Mobile App for Android) - Screenshots (Part 2)
 
 ***
 
@@ -82,7 +82,7 @@
 ![https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/master/live-demos/GIFs/live-demo-2.gif](https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/master/live-demos/GIFs/live-demo-2.gif)
 ![https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/master/live-demos/GIFs/live-demo-3.gif](https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/master/live-demos/GIFs/live-demo-3.gif)
 ######  Fire Fighting - Autonomous and Intelligent Sensors in the Fight against Forest Fires 
-######  (Arduino Sensor - Actuator with WiFi Component) - Live Demos (Part 1)
+######  (Mobile App for Android) - Live Demos (Part 1)
 
 ***
 
@@ -90,7 +90,15 @@
 ![https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/master/live-demos/GIFs/live-demo-5.gif](https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/master/live-demos/GIFs/live-demo-5.gif)
 ![https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/master/live-demos/GIFs/live-demo-6.gif](https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/master/live-demos/GIFs/live-demo-6.gif)
 ######  Fire Fighting - Autonomous and Intelligent Sensors in the Fight against Forest Fires 
-######  (Arduino Sensor - Actuator with WiFi Component) - Live Demos (Part 2)
+######  (Mobile App for Android) - Live Demos (Part 2)
+
+***
+
+## Schematic of Arduino Uno's Sketch
+
+![https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/master/imgs/JPGs/sketch-schematic-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-mobile-app/master/imgs/JPGs/sketch-schematic-1.jpg)
+######  Fire Fighting - Autonomous and Intelligent Sensors in the Fight against Forest Fires 
+######  (Mobile App for Android) - Schematic of Arduino Uno's Sketch
 
 ***
 
